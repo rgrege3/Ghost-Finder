@@ -1,3 +1,3 @@
 Developer: zax_sus
 
-Uyhulama Türkçedir.
+Uygulama Türkçedir.
